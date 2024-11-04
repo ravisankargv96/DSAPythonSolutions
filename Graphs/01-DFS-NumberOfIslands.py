@@ -8,6 +8,7 @@ def dfs(grid: List[List[str]], r: int, c: int, rows: int, cols: int):
     
     # Mark the cell as visited by setting it to '0'
     grid[r][c] = '0'
+    print()
     
     # Visit all adjacent cells (up, down, left, right)
     dfs(grid, r - 1, c, rows, cols)  # Up

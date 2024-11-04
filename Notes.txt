@@ -1,0 +1,26 @@
+Complete programming the known problems. From blind 75.
+    1. Write hard Examples, to recall the algorithm with example question.
+    2. T.C & S.C, Include comments whereever necessary.
+
+Latex Algo Representation:
+    1. Give the function block to chatGPT ask GPT to generate algorithm out of it. (Write your own words)
+    2. Convert the Algo to latex format, In overleaf 
+    3. Download both .latex & output representation.
+
+Markdown to pseudo code:
+    1. The above steps helps in getting pseudo algorithm, Write the algo in 
+    2. Download both .ipynb & .md files.
+
+Personal Notes:
+    1. Visual representations of Algo.
+    2. Write the dry run based on your understanding on a hard example.
+        a. Iterate the steps in very detailed manner.
+        b. Makesure in future, seeing the dryrun you has to recall the algorithm.
+        c. Then mugup the algorithm.
+    3. Summarize the approach, mention: corner cases
+     
+
+Fill the patterns with 
+    1. Algo Representation.
+    2. Markdown
+    3. Coding.
